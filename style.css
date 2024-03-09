@@ -8,3 +8,27 @@ header {
 h1 {
   background-color: #6f1d1b;
 }
+
+.container {
+  background-color: #bb9457;
+  padding: 5px;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
+
+#ingredients,
+#instructions > h2 {
+  text-align: left;
+}
+
+#ingredients > ul {
+  list-style: none;
+}
+
+footer {
+  background-color: #6f1d1b;
+  padding: 20px;
+  text-align: center;
+  color: #ffe6a7;
+}
